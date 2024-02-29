@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TextStyling</string>
+    <string-array name="font_names">
+        <item>Arial</item>
+        <item>Times New Roman</item>
+        <item>Calibri</item>
+        <item>Verdana</item>
+        <item>Helvetica</item>
+        <item>Garamond</item>
+        <item>Trebuchet MS</item>
+        <item>Georgia</item>
+        <item>Palatino</item>
+        <item>Courier New</item>
+        <item>Comic Sans MS</item>
+    </string-array>
+</resources>
